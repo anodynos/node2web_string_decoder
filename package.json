@@ -1,6 +1,6 @@
 {
  "name": "string_decoder",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "string_decoder.min.js",
  "description": "'string_decoder' nodejs core module browserify-ied with `--standalone string_decoder`. Should support all module systems (commonjs, AMD & `window.string_decoder`) - check browserify docs.",
  "keywords": [
